@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.teste</groupId>
-    <artifactId>gerenciadordeusuario</artifactId>
+    <artifactId>gerenciadordecliente</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>gerenciadordeusuario</name>
+    <name>gerenciadordecliente</name>
     <description>Um projeto para demonstrar testes automatizados</description>
     <properties>
         <java.version>17</java.version>
